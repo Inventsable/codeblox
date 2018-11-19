@@ -4,7 +4,19 @@
 
 ![](https://thumbs.gfycat.com/EmptyVengefulClumber-size_restricted.gif)
 
-## custom regex
+I thought it'd be a good exercise to try and create a snippet component similar to [ones found on css-tricks.com](https://css-tricks.com/custom-scrollbars-in-webkit/) or Vue documentation while trying to adhere to [rules for best practices of code examples on site-point](https://www.sitepoint.com/best-practice-for-code-examples/):
+
+* Code examples should be editable.
+
+* Code examples should use good semantic markup.
+
+* Tabs in code should not be converted to spaces.
+
+* Code should have basic syntax highlighting.
+
+* Code examples can have horizontal scrolling, but shouldn’t have vertical scrolling.
+
+* Code examples should have line numbers, which are not included in text selection.
 
 ``` javascript
 js: {
