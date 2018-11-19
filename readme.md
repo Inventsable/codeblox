@@ -2,7 +2,7 @@
 
 ## Pocket text editor component for code snippets
 
-![](https://thumbs.gfycat.com/EmptyVengefulClumber-size_restricted.gif)
+![](https://thumbs.gfycat.com/SplendidOpulentIndochinahogdeer-size_restricted.gif)
 
 I thought it'd be a good exercise to try and create a snippet component similar to [ones found on css-tricks.com](https://css-tricks.com/custom-scrollbars-in-webkit/) or Vue documentation while trying to adhere to [rules for best practices of code examples on site-point](https://www.sitepoint.com/best-practice-for-code-examples/):
 
